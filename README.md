@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello, I'm Aneal Laryea 👋
+- I am a front-end developer based in Accra, Ghana. 
+- 🌱 I’m currently learning JavaScript, React and Ruby.
+
+[![Aneal's GitHub stats](https://github-readme-stats.vercel.app/api?username=aneallaryea100&show_icons=true&theme=radical)](https://github.com/aneallaryea100/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aneallaryea100&show_icons=true&theme=radical)](https://github.com/aneallaryea100/github-readme-stats)
 
 <!--
 **aneallaryea100/aneallaryea100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

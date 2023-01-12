@@ -1,4 +1,4 @@
-### Hello, I'm Aneal Laryea 👋 A Software developer 🧑‍🧑🏿‍💻
+### Hello, I'm Aneal Laryea 👋, A Software developer 🧑‍🧑🏿‍💻
 
 
 # Get to know me 😉✌️:
